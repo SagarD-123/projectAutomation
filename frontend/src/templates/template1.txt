@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Form Notice</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #f8f8f8;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 1px solid #ddd;
+        }
+        .content {
+            padding: 20px;
+        }
+        .footer {
+            background-color: #f8f8f8;
+            padding: 10px;
+            text-align: center;
+            border-top: 1px solid #ddd;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #007bff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Action Required: Registration Form</h1>
+        </div>
+        <div class="content">
+            <p>Dear [Student Name],</p>
+            <p>We hope this email finds you well. This is a gentle reminder to complete the registration form for the upcoming semester. Your timely completion of this form is crucial to ensure your enrollment and participation in classes.</p>
+            <p>Please click the button below to fill out the registration form:</p>
+            <a href="[Registration Form Link]" class="button">Fill Registration Form</a>
+            <p>If you have any questions or need assistance, feel free to reply to this email or contact our support team.</p>
+            <p>Thank you for your prompt attention to this matter.</p>
+            <p>Best regards,</p>
+            <p>Administration<br>
+            </p>
+        </div>
+        <div class="footer">
+            <p>&copy; 2024 [Your Institution]. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>

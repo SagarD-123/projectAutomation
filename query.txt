@@ -1,0 +1,3 @@
+create database email_app;
+use email_app;
+create table users(username varchar(255) not null primary key,password varchar(255) not null , email varchar(255) not null);

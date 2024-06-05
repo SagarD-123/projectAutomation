@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certificate</title>
+</head>
+<body>
+    <p>Dear [Student Name],</p>
+    <p>This is the certificate for completion of course.</p>
+    <p>PFA certificate.</p>
+    <p>Regards,<br>Administration</p>
+</body>
+</html>

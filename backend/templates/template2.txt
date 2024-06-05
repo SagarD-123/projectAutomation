@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hostel Fees Payment Details Notice</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        .header {
+            text-align: center;
+            padding-bottom: 20px;
+        }
+        .header h1 {
+            margin: 0;
+            color: #333;
+        }
+        .content {
+            padding: 20px 0;
+        }
+        .footer {
+            text-align: center;
+            padding-top: 20px;
+            color: #777;
+            font-size: 0.9em;
+        }
+        .footer a {
+            color: #0073e6;
+            text-decoration: none;
+        }
+        .footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Hostel Fees Payment Details</h1>
+        </div>
+        <div class="content">
+            <p>Dear [Student Name],</p>
+            <p>We hope this email finds you well. This is a gentle reminder regarding the payment of your hostel fees for the upcoming term.</p>
+            <p><strong>Details of the Fees:</strong></p>
+            <ul>
+                <li><strong>Total Amount Due:</strong> $[Total Amount]</li>
+                <li><strong>Due Date:</strong> [Due Date]</li>
+                <li><strong>Payment Method:</strong> NEFT</li>
+            </ul>
+            <p>Please ensure that the payment is made by the due date to avoid any late fees or inconvenience. If you have already made the payment, kindly ignore this notice.</p>
+            <p>For any queries or assistance, feel free to contact the hostel office or reply to this email.</p>
+            <p>Thank you for your prompt attention to this matter.</p>
+            <p>Best regards,</p>
+            <p>Hostel Warden</p>
+        </div>
+        <div class="footer">
+            <p>&copy; CDAC. All rights reserved.</p>
+            <p><a href="https://cdac.in/index.aspx?id=BL">Visit our website</a></p>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certificate of Achievement</title>
+</head>
+<body style=" font-family: "Poetsen One", sans-serif;">
+
+    <table cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;">
+        <tr>
+            <td>
+                <table cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                        <td style="background-color: #007bff; padding: 20px; color: white; text-align: center;">
+                            <h1>Certificate of Achievement</h1>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 20px;">
+                            <p>Congratulations!</p>
+                            <p>This is to certify that <strong>[Recipient Name]</strong> has successfully completed the course on <strong>[Course Title]</strong> with a score of <strong>[Score]</strong>.</p>
+                            <p>Issued on: <strong>[Date]</strong></p>
+                            <p>Issued by: <strong>[Issuer Name]</strong></p>
+                            <p>For more information, please contact <a href="mailto:contact@example.com">contact@example.com</a></p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
+
